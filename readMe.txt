@@ -11,7 +11,7 @@ Download the patient files from CHB-MIT dataset and upload in google drive
 If you want to run more candidates repeat the whole process with 2 new fresh candidates
 It will take around 2-3 hours to run code for 3 patients.
 
-Reference:https://github.com/SMorettini/CNNs-on-CHB-MIT
+
 
 
 
